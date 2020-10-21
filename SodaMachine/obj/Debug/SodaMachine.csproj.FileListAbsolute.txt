@@ -1,0 +1,7 @@
+D:\DCC Projects\SodaMachineProject\SodaMachine\SodaMachine\bin\Debug\SodaMachine.exe.config
+D:\DCC Projects\SodaMachineProject\SodaMachine\SodaMachine\bin\Debug\SodaMachine.exe
+D:\DCC Projects\SodaMachineProject\SodaMachine\SodaMachine\bin\Debug\SodaMachine.pdb
+D:\DCC Projects\SodaMachineProject\SodaMachine\SodaMachine\obj\Debug\SodaMachine.csprojAssemblyReference.cache
+D:\DCC Projects\SodaMachineProject\SodaMachine\SodaMachine\obj\Debug\SodaMachine.csproj.CoreCompileInputs.cache
+D:\DCC Projects\SodaMachineProject\SodaMachine\SodaMachine\obj\Debug\SodaMachine.exe
+D:\DCC Projects\SodaMachineProject\SodaMachine\SodaMachine\obj\Debug\SodaMachine.pdb
