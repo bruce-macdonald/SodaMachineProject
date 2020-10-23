@@ -12,5 +12,12 @@ namespace SodaMachine
         {
             Console.WriteLine(message);
         }
+
+        public static string GetInput(string prompt)
+        {
+            Console.WriteLine(prompt);
+            string userInput = Console.ReadLine();
+            return userInput;
+        }
     }
 }

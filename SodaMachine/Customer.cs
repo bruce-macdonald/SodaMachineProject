@@ -27,11 +27,21 @@ namespace SodaMachine
         //    If exact or too much money is passed in but there isn’t sufficient inventory for that soda, don’t
         //         complete the transaction: give the money back
 
-        public void PurchaseSoda()
-        {
+        //public void PurchaseSoda()
+        //{
+        //    if (customer.coinsInHand > Can.Cost)
+        //    {
+        //        //put the coins back in the wallet, dont give the can
+        //    }
 
-            
-        }
+        //}
+
+        //public Can GetCan;
+        //{
+        //    return SodaMachine.sodabox
+        //}
+
+
 
     }
 }

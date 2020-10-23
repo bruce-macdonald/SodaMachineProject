@@ -11,6 +11,7 @@ namespace SodaMachine
 
         public OrangeSoda()
         {
+            name = "orangeSoda";
             cost = .06;
         }
     }

@@ -11,6 +11,8 @@ namespace SodaMachine
     {
         public List<Coin> register;
         public List<Can> inventory;
+        public Can sodaBox = null;
+        //Can canToDispense;// = Simulation.FindSodaInMachine();
 
         public SodaMachine()
         {
@@ -47,7 +49,7 @@ namespace SodaMachine
                 inventory.Add(new OrangeSoda());
             }
 
-            
+
         }
 
         public void SetMachineName(string pancakes)
@@ -56,9 +58,23 @@ namespace SodaMachine
         }
         public void CompletePurchase(List<Coin> coinsFromHuman)
         {
-            
+
         }
+        public void FindSodaInMachine(string canName)
+        {
+            foreach (Can can in inventory)
+            {
+                if (can.name == canName)
+                {
+                    sodaBox = can;
+                }
+            }
+
+        }
+
+
     }
+
 
     
 }

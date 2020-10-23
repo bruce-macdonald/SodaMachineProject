@@ -7,11 +7,14 @@ using System.Threading.Tasks;
 namespace SodaMachine
 {
     public class Cola : Can
-    {
+    {   
+        
 
         public Cola()
         {
+            name = "cola";
             cost = .35;
         }
+
     }
 }

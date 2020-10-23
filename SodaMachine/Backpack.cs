@@ -12,7 +12,7 @@ namespace SodaMachine
 
         public Backpack()
         {
-            cans = new List<Can>(0);
+            cans = new List<Can>();
             
         }
     }
